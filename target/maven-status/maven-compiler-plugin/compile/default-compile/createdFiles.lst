@@ -1,0 +1,9 @@
+com\manjesh\blogsite\RegistrationController.class
+com\manjesh\blogsite\dao\UserDao.class
+com\manjesh\blogsite\service\UserService.class
+com\manjesh\blogsite\service\UserServiceImpl.class
+com\manjesh\blogsite\dao\UserDaoImpl.class
+com\manjesh\blogsite\model\Login.class
+com\manjesh\blogsite\dao\UserMapper.class
+com\manjesh\blogsite\LoginController.class
+com\manjesh\blogsite\model\User.class
